@@ -83,9 +83,9 @@
   /*
     Video / Screen share buttons
   */
-  --video-screen-button-background-color: rgba(155, 9, 178, 0.8));
+  --video-screen-button-background-color: rgba((250, 166, 26, 1));
   --video-screen-button-foreground-color: black;
-  --video-screen-button-background-hovor-color: rgba(155, 9, 178, 0.8);
+  --video-screen-button-background-hovor-color: rgba((250, 166, 26, 1);
   --video-screen-button-foreground-hovor-color: black;
 
   /*
