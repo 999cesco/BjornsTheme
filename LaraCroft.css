@@ -8,17 +8,17 @@
   --theme-background-image: url(https://cdn.discordapp.com/attachments/705129263598403714/1142361898206122076/dd8k14v.png);
 
  
-  --main-theme-color: rgb(183, 0, 0);
+  --main-theme-color: rgb(196, 118, 2);
 
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(55, 0, 0, 1);
+  --theme-transparency: rgba(0, 0, 0, 0.55);
 
   /*
     Home Icon Image
   */
-  --home-icon-image: url();
+  --home-icon-image: url(https://media.discordapp.net/attachments/934951331268030536/935842722999328798/a_5a196afeb02777ab07d35fc3a71032f6.gif);
 
   /*
     Change your friends icon image position
